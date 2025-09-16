@@ -1,0 +1,9 @@
+com\clinica\aba\ClinicaAbaApplication.class
+com\clinica\aba\controller\EvolucaoController.class
+com\clinica\aba\repository\PacienteRepository.class
+com\clinica\aba\controller\PacienteController.class
+com\clinica\aba\repository\EvolucaoRepository.class
+com\clinica\aba\service\EvolucaoService.class
+com\clinica\aba\service\PacienteService.class
+com\clinica\aba\model\Paciente.class
+com\clinica\aba\model\Evolucao.class
